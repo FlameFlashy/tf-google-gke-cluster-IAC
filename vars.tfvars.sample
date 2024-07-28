@@ -1,0 +1,4 @@
+GOOGLE_PROJECT   = [id project]
+GOOGLE_REGION    = [your region]
+GKE_MACHINE_TYPE = [Your machine type]
+GKE_NUM_NODES    = [Number Nodes]
